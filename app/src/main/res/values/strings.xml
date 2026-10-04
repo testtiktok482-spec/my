@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Минимальное Приложение</string>
+    <string name="hello_message">Привет, Android!</string>
+</resources>
